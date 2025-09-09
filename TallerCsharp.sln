@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerCsharp", "TallerCshar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E2-Condicionales", "E2-Condicionales\E2-Condicionales.csproj", "{9C5F2EA3-105B-4BA8-9A2F-D589C046D5C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E3_Multiples", "E3_Multiples\E3_Multiples.csproj", "{A551A830-9AC6-4D56-82F9-C0CF43080736}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9C5F2EA3-105B-4BA8-9A2F-D589C046D5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C5F2EA3-105B-4BA8-9A2F-D589C046D5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C5F2EA3-105B-4BA8-9A2F-D589C046D5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A551A830-9AC6-4D56-82F9-C0CF43080736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A551A830-9AC6-4D56-82F9-C0CF43080736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A551A830-9AC6-4D56-82F9-C0CF43080736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A551A830-9AC6-4D56-82F9-C0CF43080736}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
