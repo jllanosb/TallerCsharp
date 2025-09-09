@@ -5,7 +5,7 @@ Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Le
 ## Lenguaje de Programación
 
 - C#
-
+- Python
 
 ## Control de Versiones
 
